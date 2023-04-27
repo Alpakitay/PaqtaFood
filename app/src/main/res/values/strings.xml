@@ -11,4 +11,10 @@
     <string name="labelRememberPassword">¿Olvidaste tu contraseña?</string>
     <string name="labelRegistro">REGISTRARSE</string>
     <string name="labelLogin">INICIA SESION</string>
+
+
+    <string name="labelTitleFishes">Directorio de Platos</string>
+    <string name="btnNuevoFishes">NUEVO</string>
+    <string name="labelFishes">Arroz Chaufa y papas fritas</string>
+    <string name="labelSecundaryFishes">Principal</string>
 </resources>
